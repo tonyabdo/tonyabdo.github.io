@@ -2,12 +2,26 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: 
 nav: true
 nav_order: 2
-display_categories: [work, fun]
-horizontal: false
+display_categories: [audio, controls, 3D printing]
+horizontal: true
+projects_pdf: Tony_Abdo_Portfolio.pdf
 ---
+
+<p align="center">You can find a pdf of selected projects in top right for offline viewing. To see my projects before they show up here, follow on IG, YT, or Thingiverse!</p>
+
+<div class="social">
+  <div class="contact-icons">
+    <a href="https://instagram.com/{{ site.instagram_id }}" title="Instagram"><i class="fa-brands fa-instagram"></i></a>
+    <a href="https://youtube.com/@{{ site.youtube_id }}" title="YouTube"><i class="fa-brands fa-youtube"></i></a>
+    <a href="https://www.thingiverse.com/{{ site.thingiverse_id }}/designs" title="Thingiverse"><i class="fa-solid fa-cubes"></i></a>
+  </div>
+</div>
+
+  
+
 
 <!-- pages/projects.md -->
 <div class="projects">
