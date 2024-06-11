@@ -2,15 +2,12 @@
 layout: page
 title: UP Main Theme
 description: by Michael Giacchino
-img: assets/img/antelope.jpg
+img: assets/img/music/up.png
 importance: -2
-category: rock
+category: piano
 ---
 
 
-
-<p align="center">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/7iDljx30KY0?si=7LCwSCvdT8kBcwGE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</p>
-
-
+<div  class="container-fluid" align="center" >
+    {% include video.liquid path="https://www.youtube.com/embed/7iDljx30KY0?si=7LCwSCvdT8kBcwGE" width="560" height="315" title="YouTube video player" max-width="100%" class="embed-responsive-item youtube rounded z-depth-1" %}
+</div>
