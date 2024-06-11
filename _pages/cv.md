@@ -4,8 +4,8 @@ permalink: /cv/
 title: cv/résumé
 nav: true
 nav_order: 4
-cv_pdf: example_pdf.pdf
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+cv_pdf: Tony_Abdo_Resume.pdf
+description: Here you can find a collection of my technical efforts, and in the top right you can find a downloadable single page Résumé.
 toc:
   sidebar: left
 ---
