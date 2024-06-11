@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Romance d'Amour
+title: Romance de Amour
 description: exact authorship unknown
 img: assets/img/music/romance.png
 importance: -2
