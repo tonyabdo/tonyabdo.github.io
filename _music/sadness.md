@@ -3,7 +3,7 @@ layout: page
 title: Sadness and Sorrow
 description: from Naruto
 img: assets/img/music/sadness.png
-importance: -2
+importance: 1
 category: piano
 ---
 
