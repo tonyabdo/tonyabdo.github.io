@@ -8,13 +8,13 @@ category: audio
 related_publications: false
 ---
 
-This is project for one of my classes at UC Berkeley, EE 40: Introduction to Microelectronic Circuits. Purpose of project is to create an active bandpass filter that relates amplitude of sound to number of LEDs that are lit up. Circuitry, detailed below, has the following chain of events:
+This was a project for one of my classes at UC Berkeley, EE 40: Introduction to Microelectronic Circuits. At the end of the semester we were given the opportunity to devise our own lab project. Purpose of the project is to create an active bandpass filter that relates amplitude of sound to number of LEDs that are lit up. Circuitry, detailed below, has the following chain of events:
 - Signal from piezoelectric microphone is conditioned to fall between 0-3V with a DC offset of +1.65V
 - Conditioned signal enters a Sallen-Key High Pass Filter to remove DC offset, along with other low freq signals, and magnify signal to +/-9V
 - Signal goes through Sallen-Key Low Pass filter to chop off high frequency content
 - Signal goes to a final op amp with variable gain using a potentiometer which is activated using a button switch
 - Final signal goes to voltage divider which evenly divides the amplitude of signal into 4 sections
-- Each point of division is forked into an op amp with unity gain to prevent leakage current that lights up two LEDs
+- Each point of division is forked into an op amp with unity gain, to prevent leakage current, that drives two LEDs with a BJT
 
 
 

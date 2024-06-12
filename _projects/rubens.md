@@ -34,10 +34,9 @@ Saw a video of one of these and was immediately captivated, so one summer in col
     Some pictures from build and items to purchase.
 </div>
 
-If embedded pdf doesn't load on your device, you can find a downloadable version all the way at the top!
-<div class="row mb-4">
+If embedded pdf of drawings doesn't load on your device, you can find a downloadable version all the way at the top!
+
 <iframe class="pdf" 
-                src= "../../assets/pdf/Compiled.pdf"
-            width="100%" height="720">
+                src= "https://docs.google.com/viewerng/viewer?url=https://tonyabdo.github.io/assets/pdf/Compiled.pdf&embedded=true"
+            width="100%" height="600">
 </iframe>
-</div>
