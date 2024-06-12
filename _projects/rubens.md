@@ -6,7 +6,7 @@ img: assets/img/audio/IMG_20141129_220513.jpg
 importance: 3
 category: audio
 related_publications: false
-projects_pdf: compiled.pdf
+projects_pdf: Compiled.pdf
 ---
 
 Saw a video of one of these and was immediately captivated, so one summer in college I decided to build one. You can find drawings at the bottom, but if it doesn't load or if you want to easily download, you can find them linked in top right. Drawings were made when I was 19 and should suffice; however, there were moments I had to improvise so use your best judgement! Some materials needed beyond an Aluminum tube and wood are the following: (gutted) Logitech Z130 speakers, propane tank hose with regulator, propane tank, two-part putty, and foaming gorilla glue. Pictures of these items and some build pictures can be found below. Lastly, I have to make the disclaimer that this is a DANGEROUS project, so pursue at own risk 😊.
@@ -37,7 +37,7 @@ Saw a video of one of these and was immediately captivated, so one summer in col
 If embedded pdf doesn't load on your device, you can find a downloadable version all the way at the top!
 <div class="row mb-4">
 <iframe class="pdf" 
-                src= "../../assets/pdf/compiled.pdf"
+                src= "../../assets/pdf/Compiled.pdf"
             width="100%" height="720">
 </iframe>
 </div>
