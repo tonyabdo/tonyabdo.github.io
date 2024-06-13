@@ -8,7 +8,7 @@ category: 3D printing
 related_publications: false
 ---
 
-I like having as much desk space as possible, and a phone that's lying around wastes that space. I searched around for one that matched my aesthetics and also allowed for charging capabilities. I found one from makerground on Thingiverse [here](https://www.thingiverse.com/thing:1383332), but there were a few stylistic choices I didn't like. As a result, I took into Blender and touched up STL file a little and reuploaded as a remix, term used in Thingiverse community. You can find my remix [here](https://www.thingiverse.com/thing:6010026). To be honest though, I rarely charge my phone while on the stand, so I'd probably use [this](https://www.thingiverse.com/thing:5993347) stand instead by Quill28.
+I like having as much desk space as possible, and a phone that's lying around wastes that space. I searched around for one that matched my aesthetics and also allowed for charging capabilities. I found one from makerground on Thingiverse [here](https://www.thingiverse.com/thing:1383332), but there were a few stylistic choices I didn't like. As a result, I took into Blender and touched up the STL file a little and reuploaded as a remix, term used in Thingiverse community. You can find my remix [here](https://www.thingiverse.com/thing:6010026). To be honest though, I rarely charge my phone while on the stand, so I'd probably use [this](https://www.thingiverse.com/thing:5993347) stand by Quill28 instead.
 
 
 <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-element-bundle.min.js"></script>

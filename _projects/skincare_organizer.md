@@ -8,7 +8,7 @@ category: 3D printing
 related_publications: false
 ---
 
-I like organization and there aren't any good,cheap solutions for inside a medicine cabinet. Well now for less than one dolalr of plastic, you can make your own structurally sound shelf that holds six ointment bottles with enough clerance to easily grab one bottle without knocking the rest over. Files for this print can be found [here](https://www.thingiverse.com/thing:6010078).
+I like organization and there aren't any good, cheap solutions for inside a medicine cabinet. Well now for less than one dolalr of plastic, you can make your own structurally sound shelf that holds six ointment bottles with enough clearance to easily grab one bottle without knocking the rest over. Files for this print can be found [here](https://www.thingiverse.com/thing:6010078).
 
 
 <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-element-bundle.min.js"></script>

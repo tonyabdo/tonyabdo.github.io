@@ -8,7 +8,7 @@ category: 3D printing
 related_publications: false
 ---
 
-A good combination square is an invaluable piece of equipment, but effectively useless when slightly damaged. As a result, I decided to make some caps to cover the corners. The files for it can be found [here](https://www.thingiverse.com/thing:6011380) on Thingiverse, but it isn't as easy as just printing unfortunately. The caps stay on with a plastic screw jamming into the keyway. The threads for this screw and integrated nut are threaded and tapped because I wanted to use it as an opportunity to see how that process would go with 3D printing. If you do want them modeled, then contact me!  
+A good combination square is an invaluable piece of equipment, but effectively useless when slightly damaged. As a result, I decided to make some caps to cover the corners. The files for it can be found [here](https://www.thingiverse.com/thing:6011380) on Thingiverse, but it isn't as easy as just printing unfortunately. The caps stay on with a plastic screw jamming into the keyway. The threads for this screw and integrated nut are threaded and tapped after printing because I wanted to use it as an opportunity to see how that process would go. If you do want them modeled for printing, then contact me!  
 
 <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-element-bundle.min.js"></script>
 

@@ -18,4 +18,4 @@ social: true # includes social icons at the bottom of the page
 
 <a href='https://www.cvrobots.com/'>FRC Engineering Mentor</a> and tutor with a passion for intersection of software and hardware
 
-`prof_pic.jpg` 
+Site is still WIP

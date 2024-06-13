@@ -9,7 +9,7 @@ display_categories: [piano, guitar]
 horizontal: true
 ---
 
-<p align="center">Watch my videos before they show up here on IG and YT!</p>
+<p align="center">Check out my videos before they show up here on IG and YT!</p>
 
 <div class="social">
   <div class="contact-icons">
