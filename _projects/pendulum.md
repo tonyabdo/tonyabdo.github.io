@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Self-Erecting Pendulum
-description: physics demonstration of sound using fire
+description: balance a pole vertically on moving cart
 img: assets/img/controls/pend.png
 importance: 1
 category: controls

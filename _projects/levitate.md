@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Magnetic Levitation
-description: physics demonstration of sound using fire
+description: use electromanget to levitate objects 
 img: assets/img/controls/lev.jpg
 importance: 2
 category: controls
