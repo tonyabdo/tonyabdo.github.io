@@ -17,9 +17,7 @@ category: bands
         {% include figure.liquid path="assets/img/photography/indigo/DSC00829.jpg" title="example image" class="img-fluid rounded z-depth-1"%}
     </div>
 </div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+
 
 <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-element-bundle.min.js"></script>
 
