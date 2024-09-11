@@ -11,7 +11,7 @@ related_publications: false
 Got this beautiful tool for drafting as a gift, but, being secondhand, there was no box for protection. As a result, I got to designing a case with the goal of being sleek yet protective. The case features:
 - Asymmetric locating features to prevent tool from rattling around when placed in either side of case
 - Ribs that double as stiffeners and interface to clamp down onto divider
-- Sliding lock with detents to give tactile feddback 
+- Sliding lock with detents to give tactile feedback 
 
 If you happen to have an unprotected equal space diver, checkout my Thingiverse [post](https://www.thingiverse.com/thing:6010066) for details on dimensions and STL files!
 

@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 display_categories: [audio, controls, 3D printing]
 horizontal: true
-projects_pdf: Tony_Abdo_Portfolio.pdf
+projects_pdf: Tony_Abdo_Portfolio_online.pdf
 ---
 
 <p align="center">You can find a pdf of selected projects in top right for offline viewing. To see my projects before they show up here, follow on IG, YT, or Thingiverse!</p>
