@@ -82,6 +82,20 @@
       "endDate": "2015-08-20",
       "highlights": ["Built a test jig, designed in SolidWorks and optimized for cost, to isolate inductive and capacitive sensors",
       "Automated the test jig above for motion and data collection using LabVIEW and TestStand"]
+    },
+    {
+      "name": "University of California Berkeley",
+      "position": "EE128/ME134 Feedback Control Systems Reader",
+      "startDate": "2015-08-1",
+      "endDate": "2015-12-20",
+      "highlights": ["Graded problem sets of 24 students for multi-step controls questions"]
+    },
+    {
+      "name": "University of California Berkeley",
+      "position": "EE 40 Introduction to Microelectronics Circuits Lab Helper",
+      "startDate": "2015-01-1",
+      "endDate": "2015-05-17",
+      "highlights": [" Guided and instructed 34 students in debugging their circuit labs and projects"]
     }
   ],
   "volunteer": [
