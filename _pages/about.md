@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-<a href='https://www.cvrobots.com/'>FRC Engineering Mentor</a> and tutor with a passion for intersection of software and hardware
+Engineer at stealth robotics start-up and <a href='https://www.cvrobots.com/'>FRC Engineering Mentor</a> with a passion for the intersection of software and hardware.
 
 Welcome to my corner of the Internet! I created this site to share all my interests, both technical and not technical. 
 

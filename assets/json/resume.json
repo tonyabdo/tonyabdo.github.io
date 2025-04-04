@@ -31,11 +31,18 @@
   "work": [
 
     {
+      "name": "Stealth Start-up",
+      "position": "Hardware/Software Engineer",
+            "startDate": "2025-02-17",
+      "endDate": "present",
+      "highlights": ["Designing and implementing mechanical, electrical, and software solutions to enable robot autonomy"]
+    },
+    {
       "name": "JEI Learning Center",
       "position": "Private Tutor",
       "url": "https://jeilearning.com/lacrescenta/index.do",
       "startDate": "2022-01-01",
-      "endDate": "present",
+      "endDate": "2025-02-17",
       "highlights": ["Identify learning challenges in a wide array of students to work within their capabilities with the purpose of achieving mastery in Math, English, and occasionally other subjects"]
     },
     {
