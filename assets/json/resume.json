@@ -31,11 +31,14 @@
   "work": [
 
     {
-      "name": "Stealth Start-up",
-      "position": "Hardware/Software Engineer",
+      "name": "AlphaZ",
+      "position": "Robotics System Developer",
             "startDate": "2025-02-17",
       "endDate": "present",
-      "highlights": ["Designing and implementing mechanical, electrical, and software solutions to enable robot autonomy"]
+      "highlights": ["Implement Python and CPP ROS1 packages to automatically traverse uncertain terrain with obstacle avoidance demonstrating capability on a 1.5 mile loop after rainfall with 0 intervention on customer’s property",
+      "Design, build, and deploy various payloads on legged and wheeled robots for security purposes",
+      "Develop auto-docking sequence achieving 100/100 successful docking attempts for quadruped robots using vision and closed loop control strategies with sequencing controlled via a state machine",
+      "Debugged critical problems in ICP and planning algorithms"]
     },
     {
       "name": "JEI Learning Center",
@@ -50,7 +53,7 @@
       "position": "Co-Founder and Board Member",
       "url": "https://www.cvrobots.com/support-us",
       "startDate": "2021-03-27",
-      "endDate": "present",
+      "endDate": "2025-12-04",
       "highlights":["Created non-profit with a group of alumni to facilitate greater STEM education for High School students", 
       "Search for and complete grants to fund team with a budget that has grown from ~$30k to $100k+"]
     },
@@ -112,7 +115,7 @@
       "position": "Engineering Mentor",
       "url": "https://www.cvrobots.com/",
       "startDate": "2021-01-06",
-      "endDate": "present",
+      "endDate": "2025-12-04",
       "highlights": ["Teach students how to design and build a robot while taking into account real physical principles", 
       "Develop design and manufacturing workflow to allow 100+ student organization to create a robot effectively"]
     }
